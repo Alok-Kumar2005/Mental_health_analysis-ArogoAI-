@@ -1,0 +1,8 @@
+scikit-learn
+streamlit
+fastapi
+optuna 
+lazypredict
+ipykernel
+matplotlib
+seaborn
