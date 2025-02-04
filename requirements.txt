@@ -6,3 +6,4 @@ lazypredict
 ipykernel
 matplotlib
 seaborn
+uvicorn[standard]
